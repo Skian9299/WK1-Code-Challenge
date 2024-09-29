@@ -56,4 +56,4 @@ function calculateNetSalary(basicSalary, benefits) {
   }
   
   // Example usage
-  console.log(calculateNetSalary(600000, 10000));
+  console.log(calculateNetSalary(400000, 20000));
